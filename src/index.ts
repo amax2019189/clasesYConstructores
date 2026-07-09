@@ -16,3 +16,5 @@ console.log(persona);
 const persona2 = new Persona2("Juan", "Perez", 98, false);
 
 console.log(persona2);
+
+console.log("Esta es una prueba de como hacer un Pull Request");
